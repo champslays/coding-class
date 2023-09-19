@@ -1,0 +1,30 @@
+computer that uses a website is called a server
+
+html, CSS and javascript is what builds a website
+
+Jason and xml
+
+examples of databases: cassanderas
+
+API=service file that calls back end API
+
+cookies=data stores
+
+system admin
+
+database engineer
+
+back end data bases
+
+front end databases
+
+full stack developers
+
+operations or deev ops
+
+testers
+
+designer
+
+
+
